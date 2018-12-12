@@ -20,34 +20,15 @@ h1 {
   font-weight: 12px;
 }
 
-/* .container-fluid {
-  background-color: #95b3b2 */
-}
-
-
-/* #jam {
-  float: left;
-  align-content: center;
-  padding: 20px;
-  margin: 20px;
-}
-
-#jam {
-  float: right;
-  align-content: center;
-  padding: 20px;
-  margin: 20px;
-}
-
-.col-4 {
-  padding: 10px;
-  margin: 10px;
-}
-
-.col-8 {
-  padding: 10px;
-  margin: 10px; */
-/* } */
 #math {
   color: palevioletred;
+}
+
+body{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+form {
+  background-color: #a5e9e7;
 }
